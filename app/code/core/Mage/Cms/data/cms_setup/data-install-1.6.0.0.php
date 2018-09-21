@@ -75,7 +75,7 @@ $cmsPages = array(
         'sort_order'    => 0
     ),
     array(
-        'title'         => 'Home page',
+        'title'         => "Pamela's",
         'root_template' => 'two_columns_right',
         'identifier'    => 'home',
         'content'       => "<div class=\"page-title\"><h2>Home Page</h2></div>",

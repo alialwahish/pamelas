@@ -49,12 +49,6 @@ summary {
 *  added new feilds to the page >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 */
 
-.homePageSlider{
-  height: 500px;
-}
-
-
-
 
 
 
@@ -531,11 +525,12 @@ textarea {
 
 a {
   color: #3399cc;
-  text-decoration: none;
+  text-decoration: unset;
 }
 
 a:hover {
   color: #01BCB5;                                        /* Link Effect on hover disabled the underline and changed color*/
+  text-decoration:unset;
 
 }
 
@@ -3185,7 +3180,7 @@ body {
 
 .wrapper {
   min-width: 320px;
-  min-height: 100%;
+ 
   margin: 0 auto;
   background: #FFFFFF;
 }

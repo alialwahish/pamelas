@@ -502,7 +502,7 @@ a {
 
 a:hover {
   color: #2e8ab8;
-  text-decoration: underline;
+  text-decoration: unset;
 }
 
 a:focus {
